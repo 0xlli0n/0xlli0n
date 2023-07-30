@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0xlli0n
+- 👀 I’m interested in cryptocurrency
+- 🌱 I’m currently learning blockchain data analyze
